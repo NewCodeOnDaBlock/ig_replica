@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: rgb(234, 234, 234);
+}
+
+button {
+  border-radius: 7px;
+  border: none;
+  background-color: rgb(240, 240, 240);
+}
+
+button:hover{
+  cursor: pointer;
+}
